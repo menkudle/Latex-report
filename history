@@ -1,0 +1,114 @@
+cd /etc/apt
+ls
+sudo date -s "2017-08-05 13:30:30"
+ping 10.1.0.1
+ping 10.25.0.42
+ping 10.25.0.4
+ping 10.25.0.42
+ping 10.1.19.209
+ping 10.1.19.207
+dpkg --list
+texlive
+texdoc
+sudo apt install texlive
+df -h
+sudo apt install texlive
+texlive
+cd /etc
+/conf
+cd /conf
+sudo apt install texlive
+cd
+cd /etc/conf
+cd \etc\conf
+cd etc/conf
+sudo apt install texlive
+texlive
+cat /etc/apt/sources.conf
+cat /etc/apt/apt.conf
+cd /etc/apt
+gedit sources.list
+sudo gedit sources.list
+sudo apt get-install texlive
+sudo apt install texlive
+sudo gedit sources.list
+cat sources.list
+sudo gedit sources.list
+..
+/..
+apt.conf
+cat apt.conf
+gedit sources.list
+sudo gedit sources.list
+sudo apt-get update
+sudo gedit sources.list
+sudo apt-get install
+sudo gedit sources.list
+sudo apt get texlive
+cat /etc/conf
+cd /etc
+cd /conf
+gedit sources.list
+gedit /etc/apt/apt.conf
+cd /apt
+cd /apt/apt.conf
+gedit /etc/apt/apt.conf
+sudo apt get install
+sudo apt-get install
+gedit /etc/apt/sources.list
+sudo apt-get install
+gedit /etc/apt/sources.list
+cd /etc/apt/
+ll
+cat sources.list
+sudo gedit sources.list
+cd /etc/apt
+cat sources.list
+sudo gedit sources.list
+cat apt.conf
+sudo apt-get install
+sudo apt install texlive
+texlive
+sudo apt install texlive
+texlive
+open texlive
+cd
+texlive
+ls
+sudo apt list
+texlive
+sudo apt install texlive
+sudo apt install texlive*
+texlive
+sudo apt install texlive*
+texlive
+sudo apt install texlive*
+texlive
+latex
+apropos texlive
+apropos latex
+ll
+sudo apt install texlive*
+texlive
+latex
+pdflatex
+gedit
+pdflatex 1.tex
+ls
+cat 1.pdf
+gedit 1.pdf
+gedit
+pdflatex 2.tex
+gedit
+pdflatex 3.tex
+gedit
+pdflatex 4.tex
+ping www.google.com
+ping www.google.co.in
+ping www.google.com
+top
+htop
+ls
+history
+history -w ~/history.txt
+
